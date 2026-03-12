@@ -1,78 +1,13 @@
 # Hi, I'm Amado 👋
 
-Lead Mobile & Product Engineer focused on building production-grade mobile systems.
+Mobile & Product Engineer focused on building production systems with React Native and TypeScript.
 
-I specialize in **React Native**, **TypeScript**, and **product architecture**, designing applications that run at scale and survive real-world constraints.
+I see software as both craft and structure — designing applications that scale, endure, and support real products.
 
-Over the past **8+ years** I've built and shipped mobile and web applications across startup and enterprise environments — including high-traffic consumer apps, blockchain supply chain platforms, and operational systems for real businesses.
-
----
-
-## Engineering Philosophy
-
-> Code is both craft and structure.
-
-Good engineering is not only about solving problems — it is about giving structure to ideas and building systems that endure.
-
-The software I design aims to:
-
-- scale under real production conditions  
-- remain understandable as systems grow  
-- support evolving product needs  
-
-Great products emerge where thoughtful architecture meets pragmatic execution.
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=flat&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
 
 ---
 
-## What I work on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amadogr/) 
 
-• Mobile applications with **React Native**  
-• Product and system architecture  
-• Full-stack TypeScript systems  
-• Infrastructure and deployment pipelines  
-• Performance optimization and developer tooling  
-
----
-
-## Selected Highlights
-
-• Lead mobile engineer for the **El Palacio de Hierro** app — one of Mexico’s top shopping apps  
-• Built **20+ production mobile applications** across startup and enterprise environments  
-• Designed full-stack systems spanning **mobile, backend, and infrastructure**  
-• Co-founder of **Black Brûlée**, where I design and operate the digital systems behind the business  
-
----
-
-## Tech I use
-
-### Mobile
-
-React Native  
-Expo  
-
-### Web
-
-React  
-Next.js  
-TypeScript  
-
-### Infrastructure
-
-Docker  
-CI/CD pipelines  
-Self-hosted systems  
-
----
-
-## Current Focus
-
-• Mobile architecture for large-scale React Native apps  
-• Systems that connect mobile products with backend infrastructure  
-• AI-assisted development workflows  
-
----
-
-## Find me
-
-Portfolio → https://www.amadogonzalez.com.mx/
-LinkedIn → https://www.linkedin.com/in/amadogr/
